@@ -1,0 +1,6 @@
+{
+  "name": "SD Qur'an Para Sahabat",
+  "description": "Website Resmi SD Qur'an Para Sahabat Kampung Baru, Muara Tembesi, Batang Hari, Jambi. Sekolah Dasar Islam Berbasis Al-Qur'an dengan Program Unggulan Tahfizh & Tahsin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
